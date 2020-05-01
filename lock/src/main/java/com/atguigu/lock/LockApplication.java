@@ -1,13 +1,13 @@
-package com.atguigu.lockreadwrite;
+package com.atguigu.lock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LockReadwriteApplication {
+public class LockApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LockReadwriteApplication.class, args);
+        SpringApplication.run(LockApplication.class, args);
     }
 
 }

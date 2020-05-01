@@ -1,4 +1,4 @@
-package com.atguigu.lockreadwrite.demo01;
+package com.atguigu.lock.demo01;
 
 import java.util.HashMap;
 import java.util.Map;
